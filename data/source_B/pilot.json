@@ -1,18 +1,67 @@
 {
   "id": "A_001",
+  "text": "কুমিল্লার মানুষ মীরজাফর এটা ও আরেকবার প্রমান করলো ।",
+  "label": "hate",
+  "video_id": "B1m8bOzhg54",
+  "video_url": "https://youtu.be/B1m8bOzhg54?si=OmK80Ss6ibR8RFh0",
+  "channel": "Jamuna TV"
+}
+{
+  "id": "A_002",
+  "text": "ফকিন্নির পুত্রের ভাব কত",
+  "label": "abusive",
+  "video_id": "B1m8bOzhg54",
+  "video_url": "https://youtu.be/B1m8bOzhg54?si=OmK80Ss6ibR8RFh0",
+  "channel": "Jamuna TV"
+}
+{
+  "id": "A_003",
+  "text": "আলহামদুলিল্লাহ অনেক ভালো লাগলো",
+  "label": "neutral",
+  "video_id": "B1m8bOzhg54",
+  "video_url": "https://youtu.be/B1m8bOzhg54?si=OmK80Ss6ibR8RFh0",
+  "channel": "Jamuna TV"
+}
+{
+  "id": "A_004",
   "text": "আহা রে কোটা না মেধা বি এন পি কে শেষ করবে কুমিল্লা র ইতর",
-  "image_path": null,
-  "label": "abusive"
+  "label": "abusive",
+  "video_id": "B1m8bOzhg54",
+  "video_url": "https://youtu.be/B1m8bOzhg54?si=OmK80Ss6ibR8RFh0",
+  "channel": "Jamuna TV"
 }
 {
-  "id": "A_001",
+  "id": "A_005",
   "text": "চোরের সাথে চোরের মিল",
-  "image_path": null,
-  "label": "hate"
+  "label": "abusive",
+  "video_id": "B1m8bOzhg54",
+  "video_url": "https://youtu.be/B1m8bOzhg54?si=OmK80Ss6ibR8RFh0",
+  "channel": "Jamuna TV"
+}
+
+{
+  "id": "A_006",
+  "text": "সত্যের পথে এগিয়ে যান আমরা আসি পাশে ❤❤",
+  "label": "neutral",
+  "video_id": "Pcbmv-IYUGo",
+  "video_url": "https://www.youtube.com/watch?v=Pcbmv-IYUGo",
+  "channel": "Jamuna TV"
 }
 {
-  "id": "A_001",
-  "text": "কুমিল্লার মানুষ মীরজাফর এটা ও আরেকবার প্রমান করলো।",
-  "image_path": null,
-  "label": "hate"
+  "id": "A_007",
+  "text": "বয়কট চাঁদাবাজ দল বিএনপি",
+  "label": "hate",
+  "video_id": "Pcbmv-IYUGo",
+  "video_url": "https://www.youtube.com/watch?v=Pcbmv-IYUGo",
+  "channel": "Jamuna TV"
 }
+{
+  "id": "A_008",
+  "text": "বি এন পি আওয়ামীলিগ মিলে গেছে চাদাবাজি বেড়ে যাচ্ছে",
+  "label": "hate",
+  "video_id": "Pcbmv-IYUGo",
+  "video_url": "https://www.youtube.com/watch?v=Pcbmv-IYUGo",
+  "channel": "Jamuna TV"
+}
+
+
